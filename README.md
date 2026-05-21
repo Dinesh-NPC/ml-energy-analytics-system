@@ -1,10 +1,10 @@
-# ⚡ Smart Energy Consumption, Prediction and Optimization
+# Smart Energy Consumption, Prediction and Optimization
 
 An intelligent Machine Learning-based Smart Energy Management System that predicts electricity consumption and detects abnormal energy usage patterns using advanced ML algorithms.
 
 ---
 
-# 📌 Project Overview
+#  Project Overview
 
 Electricity demand is increasing rapidly, making efficient energy management essential. This project uses Machine Learning algorithms to:
 
@@ -23,7 +23,7 @@ The system combines:
 
 ---
 
-# 🚀 Features
+#  Features
 
 ✅ Electricity Consumption Forecasting  
 ✅ Real-Time Anomaly Detection  
@@ -35,7 +35,7 @@ The system combines:
 
 ---
 
-# 🧠 Machine Learning Algorithms Used
+#  Machine Learning Algorithms Used
 
 ## 1️⃣ Random Forest
 
